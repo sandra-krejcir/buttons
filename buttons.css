@@ -1,0 +1,24 @@
+button {
+  font-family: "Raleway", sans-serif;
+  font-size: 1vw;
+  background-color: #000000;
+  border-color: #000000;
+  color: white;
+  padding-top: 0.8vw;
+  padding-bottom: 0.8vw;
+  padding-right: 1.5vw;
+  padding-left: 1.5vw;
+  letter-spacing: 2.5px;
+  margin-top: 6.8vw;
+  box-shadow: 0;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: white;
+  border-color: white;
+  color: #000000;
+  border-color: #000000;
+  border-width: 1.5px;
+  box-shadow: 0;
+}
